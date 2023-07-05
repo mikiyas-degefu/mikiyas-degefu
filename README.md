@@ -3,12 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikiyasmebrate&label=Profile%20views&color=0e75b6&style=flat" alt="mikiyasmebrate" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikiyasmebrate" alt="mikiyasmebrate" /></a> </p>
 
 - 🔭 I’m currently working on [Recruitment system](https://github.com/MikiyasMebrate/ACT_Recruitment_Management_system)
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **HTML, JavaScript, Python, Django**
 
 - 📫 How to reach me **mikiyasmebrate@gmail.com**
 

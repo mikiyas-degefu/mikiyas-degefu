@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Django**
 
+- 📝 I regularly write articles on [https://medium.com/@mikiyasmebrate](https://medium.com/@mikiyasmebrate)
+
 - 💬 Ask me about **HTML, JavaScript, Python, Django**
 
 - 📫 How to reach me **mikiyasmebrate@gmail.com**
@@ -18,6 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/mikiyas-mebrate-0b8b0122b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikiyas-mebrate-0b8b0122b" height="30" width="40" /></a>
 <a href="https://instagram.com/mikiasmebrate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mikiasmebrate" height="30" width="40" /></a>
 <a href="https://medium.com/@mikiyasmebrate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mikiyasmebrate" height="30" width="40" /></a>
 </p>
